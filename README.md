@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="/"  />
 </div>
 
 ###
@@ -81,9 +81,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=AzizdoniGit&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
